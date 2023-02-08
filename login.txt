@@ -1,3 +1,6 @@
+Enter username and password.
+welcome to the page.
 username:
 password:
     submit
+
